@@ -23,7 +23,7 @@ Informed Business Decisions
 - Data Analytics and Dashboards
 
 ## Published Blog
-Add your published blog URL here.
+https://lnkd.in/p/dcfM4z7m
 
 ## Learning Resources
 - https://docs.databricks.com/
